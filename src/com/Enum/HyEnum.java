@@ -12,10 +12,7 @@ public enum HyEnum {
 	yyl("医药类") {},
 	swfwl("商务服务类") {},
 	jtl("交通类") {},
-	lyl("旅游类") {},
-	jyl("教育类") {},
-	zfjgl("政府机构类") {},
-	mtl("媒体类") {},
+	
 	qtjgl("其他机构类") {};
 
 	private String value;
